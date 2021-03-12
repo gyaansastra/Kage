@@ -72,7 +72,7 @@
     "axios": "^0.18.0",
     "bluebird": "^3.5.3",
     "element-ui": "^2.5.4",
-    "msgpack5": "^4.2.1",
+    "msgpack5": "^4.5.1",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
     "vue-progressbar": "^0.7.5",
